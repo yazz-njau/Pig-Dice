@@ -1,7 +1,7 @@
 # pig-dice
 # Quiz
-Website Name: Pig-dice By: Robert Njau on 6th April 2019 Description The website has questions with multi-choice answers, and each correct answer awards the user 20mks
-
+Website Name: Pig-dice By: Robert Njau on 6th April 2019 
+##Description ; A player rolls a dice so as to find out the winner 
 website url: 
 
 Setup/Installation Requirements Just click on the website link to begin the test. Known Bugs There are no known bugs.
