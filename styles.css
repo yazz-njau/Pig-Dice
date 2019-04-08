@@ -1,0 +1,62 @@
+.container {
+  width: 50%;
+  height: 100%;
+  font-family: sans-serif;
+  font-style: oblique;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: teal;
+  color: #ffcc00 ;
+  border-radius: 20px;
+}
+#box {
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  font-style: oblique;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #white;
+  color: #ffcc00 ;
+  border-radius: 20px;
+}
+body{
+  background-image: url(..//images/dice.png);
+}
+.img{
+  display: inline-block;
+  text-align: center;
+}
+img1 {
+  width: 80%;
+}
+img2 {
+  width: 80%;
+}
+.btn{
+  align-self: center;
+  font-style: italic;
+  font-size: 20px;
+  border-radius: 50%;
+  	padding: .1em;
+  	border-left: .2em solid rgb(221, 221, 221);
+  	border-top: .2em solid rgb(221, 221, 221);
+  	border-right: .2em solid black;
+  	border-bottom: .2em solid black;
+  }
+.ft{
+  text-align: center;
+  align-self: center;
+  font-style: italic;
+  font-size: 20px;
+  border-radius: 50%;
+    padding: .1em;
+    border-left: .2em solid rgb(221, 221, 221);
+    border-top: .2em solid rgb(221, 221, 221);
+    border-right: .2em solid black;
+    border-bottom: .2em solid black
+}
